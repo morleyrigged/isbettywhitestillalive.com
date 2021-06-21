@@ -5,4 +5,5 @@
 </p>
 <style type="text/css">
   .page-header a.btn, footer { display: none; }
+  .page-header { padding: .5rem 0rem; }
 </style>
