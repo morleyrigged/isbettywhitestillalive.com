@@ -1,8 +1,6 @@
-# Betty White is Still Alive!
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Betty_White_2010.jpg" height="150" align="left" />
-  Yes, Betty White is stil alive!  She is 99 years old and she is America's sweetheart and we love her!
-</p>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Betty_White_2010.jpg" height="200" />
+</center>
 <style type="text/css">
   .page-header a.btn, footer { display: none; }
   .page-header { padding: .5rem 0rem; }
