@@ -4,5 +4,5 @@
   Yes, Betty White is stil alive!  She is 99 years old and she is America's sweetheart and we love her!
 </p>
 <style type="text/css">
-  footer { display: none; }
+  .page-header a.btn, footer { display: none; }
 </style>
